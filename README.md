@@ -47,7 +47,7 @@ The system calculates three key metrics in real-time:
 ---
 
 ## 👷 Setup Instructions
-1. Clone the repository.
+1. Clone the repository. https://github.com/aparna-exe/Delivery-route-optimizer
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
 4. Access the command center at `http://127.0.0.1:5000`
