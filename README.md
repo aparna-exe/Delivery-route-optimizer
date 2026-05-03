@@ -1,4 +1,4 @@
-# MedLink IQ: Biological & Pharmaceutical Logistics Optimizer
+# MedLink IQ:Biological & Pharmaceutical Logistics Optimizer
 
 ## 🏥 Project Overview
 **MedLink IQ** is a specialized logistics management system designed for the high-stakes environment of medical and pharmaceutical deliveries in Dubai. Unlike standard delivery routers, this system prioritizes life-saving assets (like organs and blood) over standard inventory (like pharmacy restocks) using a custom **Priority-Weighted Greedy Algorithm**.
